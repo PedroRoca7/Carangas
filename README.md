@@ -26,7 +26,6 @@ O Carangas funciona da seguinte maneira o usuário cadastra um carro informando 
 # Tecnologias utilizadas
 ## Back end
 - API - Eric Brito
-- https://carangas.herokuapp.com/cars
 ## Mobile
 - Swift
 ## App
